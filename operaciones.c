@@ -7,7 +7,7 @@ int sumar(int a, int b) {
 }
 
 /* ── restar — ya implementada ────────────────────────────────────────────── */
-//Resta los valores a-b de los int.
+//Resta los valores "a-b" de los int.
 int restar(const int a, const int b) {
     return a - b;
 }
